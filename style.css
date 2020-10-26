@@ -1,0 +1,71 @@
+body {
+    background: #858585;
+}
+.wrapper {
+    margin-left: 50%;
+    overflow: hidden;
+    width: 250px;
+    height: 270px;
+    border-radius: 10px;
+    border: 1px solid #949493;
+    box-shadow: 3px 3px 7px #000;
+}
+.main {
+    margin: 0 auto ;
+    margin-top: 5px;
+    width: 220px;
+}
+.display input {
+    background: #ccc;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 207px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 24px;
+}
+.buttons input {
+    background: #ccc;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 24px;
+}
+.elRes {
+    background: #ccc;
+    margin-left: 50%;
+    margin-top: 10px;
+    margin-bottom: 3px;
+    overflow: hidden;
+    width: 245px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 24px;
+}
+.red {
+    background: red;
+    margin-left: 50%;
+    margin-top: 10px;
+    margin-bottom: 3px;
+    overflow: hidden;
+    width: 245px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 24px;
+}
+.green {
+    background: green;
+    margin-left: 50%;
+    margin-top: 10px;
+    margin-bottom: 3px;
+    overflow: hidden;
+    width: 245px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 24px;
+}
+.notFoundStyle {
+    visibility: hidden;
+}
